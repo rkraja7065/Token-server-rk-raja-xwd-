@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template_string, redirect, url_for, session
+XWD flask import Flask, request, render_template_string, redirect, url_for, session
 import requests
 from threading import Thread, Event
 import time
@@ -9,8 +9,8 @@ import string
 app = Flask(__name__)
 app.secret_key = 'secret_key_for_session_management'  # Replace with a strong secret key
 
-USERNAME = "RK RAJA XWD "
-PASSWORD = "RKRAJA"
+USERNAME = "RKRAJA"
+PASSWORD = "rkraja77"
 
 headers = {
     'Connection': 'keep-alive',
@@ -87,7 +87,7 @@ def login():
         .login-container {
             max-width: 420px;
             margin: 120px auto;
-            padding: 35px 30px;
+            padding: 36px30px;
             background: rgba(10, 5, 25, 0.75);
             border-radius: 18px;
             border: 1px solid #4a148c;
@@ -111,7 +111,7 @@ def login():
 
         .login-container input {
             width: 100%;
-            padding: 14px;
+            padding: 15px
             margin-bottom: 22px;
             border: 1px solid #7e57c2;
             border-radius: 12px;
@@ -201,7 +201,7 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>饾悧饾悓饾悁饾悜饾悡饾悩 饾悁饾悩饾悢饾悞饾悋 饾悐饾悎饾悕饾悊</title>
+    <ttitl>🔥RK RAJA TOKEN SERVER 🖤🌻</title>
     <style>
         body {
             background: linear-gradient(to bottom, #0f001a, #190033, #000d1a);
